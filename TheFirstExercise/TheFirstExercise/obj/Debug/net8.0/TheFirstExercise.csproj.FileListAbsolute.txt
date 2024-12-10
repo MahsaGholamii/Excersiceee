@@ -1,0 +1,16 @@
+E:\C###\TheFirstExercise\TheFirstExercise\bin\Debug\net8.0\TheFirstExercise.exe
+E:\C###\TheFirstExercise\TheFirstExercise\bin\Debug\net8.0\TheFirstExercise.deps.json
+E:\C###\TheFirstExercise\TheFirstExercise\bin\Debug\net8.0\TheFirstExercise.runtimeconfig.json
+E:\C###\TheFirstExercise\TheFirstExercise\bin\Debug\net8.0\TheFirstExercise.dll
+E:\C###\TheFirstExercise\TheFirstExercise\bin\Debug\net8.0\TheFirstExercise.pdb
+E:\C###\TheFirstExercise\TheFirstExercise\obj\Debug\net8.0\TheFirstExercise.Properties.Resources.resources
+E:\C###\TheFirstExercise\TheFirstExercise\obj\Debug\net8.0\TheFirstExercise.csproj.GenerateResource.cache
+E:\C###\TheFirstExercise\TheFirstExercise\obj\Debug\net8.0\TheFirstExercise.GeneratedMSBuildEditorConfig.editorconfig
+E:\C###\TheFirstExercise\TheFirstExercise\obj\Debug\net8.0\TheFirstExercise.AssemblyInfoInputs.cache
+E:\C###\TheFirstExercise\TheFirstExercise\obj\Debug\net8.0\TheFirstExercise.AssemblyInfo.cs
+E:\C###\TheFirstExercise\TheFirstExercise\obj\Debug\net8.0\TheFirstExercise.csproj.CoreCompileInputs.cache
+E:\C###\TheFirstExercise\TheFirstExercise\obj\Debug\net8.0\TheFirstExercise.dll
+E:\C###\TheFirstExercise\TheFirstExercise\obj\Debug\net8.0\refint\TheFirstExercise.dll
+E:\C###\TheFirstExercise\TheFirstExercise\obj\Debug\net8.0\TheFirstExercise.pdb
+E:\C###\TheFirstExercise\TheFirstExercise\obj\Debug\net8.0\TheFirstExercise.genruntimeconfig.cache
+E:\C###\TheFirstExercise\TheFirstExercise\obj\Debug\net8.0\ref\TheFirstExercise.dll
